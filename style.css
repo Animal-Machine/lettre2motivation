@@ -1,0 +1,84 @@
+body{
+  background-color : #C0C0C0;
+}
+
+a{
+  color : #0066CC;
+  text-decoration : underline;
+}
+
+a:hover{
+  color : orange;
+  text-decoration : underline;
+}
+
+.carmenuactif{
+  font-family : "arial black", helvetica, sans-serif;
+  font-size : 12px;
+}
+
+.carmenupassif{
+  font-family : "arial black", helvetica, sans-serif;
+  font-size : 12px;
+  color : #FFFFFF;
+  background-color:#009900;
+}
+
+.logo{
+  position : absolute;
+  top : 10px;
+  left : 50px;
+  font-family : "arial black", helvetica, sans-serif;
+  font-size : 36px;
+  color : #0066CC;
+}
+
+.menu{
+  position : absolute;
+  top : 65px;
+  left : 225px;
+}
+
+.cartexteprincipal{
+  font-family : "Arial", helvetica, sans-serif;
+  font-size : 12px;
+}
+  
+.cartitre{
+  font-family : "Arial", helvetica, sans-serif;
+  font-size : 14px;
+}
+  
+.cartitreprincipal{
+  font-family : "Arial", helvetica, sans-serif;
+  font-size : 16px;
+}
+  
+.texteprincipal{
+  position : absolute;
+  background-color : #FFFFFF;
+  padding: 10px;
+  top : 100px;
+  left : 50px;
+  width: 728px;
+  margin-bottom: 40px;
+}
+  
+.retrait100{
+  position: relative;
+  font-family: "Courier", helvetica, sans-serif;
+  left: 100px;
+  width: 400px;
+}
+
+.lettredemotivation{
+  position: relative;
+  font-family: "Courier", helvetica, sans-serif;
+  left: 100px;
+  width: 550px;
+}
+
+/*.forum{
+  position: absolute;
+  top: 400px;
+}*/
